@@ -53,7 +53,7 @@ body {
   left: 0;
   opacity: 0;
   transition: opacity 0.6s;
-  width: 80%;
+  width: 70%;
   height: 0px;
 }
 
@@ -62,7 +62,7 @@ body {
   float: left;
   opacity: 1;
   transition: opacity 0.6s;
-  width: 80%;
+  width: 70%;
 }
 
 .show-next, .show-prev{
