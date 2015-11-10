@@ -49,6 +49,7 @@ body {
   position: relative;
   background-color: rgba(14,17,57,0.3);
   margin: auto;
+  overflow: auto;
 }
 
 .hide {
@@ -56,7 +57,7 @@ body {
   left: 0;
   opacity: 0;
   transition: opacity 0.6s;
-  width: 67.5%;
+  width: 65%;
   height: 0px;
 }
 
@@ -65,7 +66,7 @@ body {
   float: left;
   opacity: 1;
   transition: opacity 0.6s;
-  width: 67.5%;
+  width: 65%;
 }
 
 .show-next, .show-prev{
