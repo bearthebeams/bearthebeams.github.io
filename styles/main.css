@@ -47,6 +47,7 @@ body {
   zoom: 1;
   font-family: 'NoSpace';
   position: relative;
+  left: 50%;
   /*
   background-color: rgba(14,17,57,0.3);
   */
