@@ -26,7 +26,6 @@ body {
 }
 
 .topbar {
-  background-color: rgba(14,17,57,0.3);
   width: 100%;
 }
 
@@ -37,7 +36,6 @@ body {
 
 .endbar {
   display: block;
-  background-color: rgba(14,17,57,0.3);
   text-align: center;
   width: 100%;
 }
